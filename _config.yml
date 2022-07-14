@@ -1,1 +1,20 @@
-theme: jekyll-theme-minimal
+# Site settings
+name: 崔哲涵
+location: 上海
+company: 求知小学
+position: 学生
+github: https://github.com/cuizhehan
+# facebook: https://www.facebook.com/
+# phone: 1580424XXXX
+email: cuizhehan@111.com
+
+baseurl: "/Resume"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
+            
